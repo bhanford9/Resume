@@ -1,0 +1,169 @@
+html {
+    margin: -10px -20px;
+    padding:0px;
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+.short-spacing {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.main-container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    margin-right:-10px;
+}
+
+.summary-history-container {
+    width: auto;
+    margin-top: 10px;
+    margin-left: 28px;
+}
+
+.work-section-title {
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    border-spacing: 40px 40px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 24px;
+    color: #003d73
+}
+
+.small-inline-block-spacer {
+    min-width: 20px;
+}
+
+.name-contact-skills-container {
+    min-width: 200px;
+    height: 298%;
+    background: #003d73;
+    padding: 12px;
+}
+
+.work-location, .work-duration {
+    text-align: right;
+}
+
+.white-text {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+.user-name {
+    font-size: 36px;
+    font-weight: bolder;
+    line-height: 38px;
+    margin-top: 20px !important;
+    margin-bottom: 10px !important;
+}
+
+.user-title {
+    font-size: 16px !important;
+}
+
+.job-project-container {
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    margin-left: 8px;
+    margin-right: 6px;
+}
+
+.work-section-item {
+    margin-top: 16px;
+    margin-bottom: 50px;
+}
+
+#gateway-mission-router {
+    margin-top: 500px;
+    padding-top: 60px;
+}
+
+#autonomous-satellite-tracking {
+    margin-top: 500px;
+    padding-top: 60px;
+}
+
+.occupational-title {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.work-description-list {
+    margin-left: 30px;
+}
+
+.item-light {
+    font-weight: lighter;
+}
+
+.work-description-list-item {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.banner-container {
+    background-color: #00315c;
+    margin-left: -10px;
+    margin-right: -12px;
+    margin-top: 2px;
+    margin-bottom: 0px;
+}
+
+.banner {
+    line-height: 36px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 8px;
+}
+
+.contact-item-title {
+    font-weight: bolder;
+    margin-bottom: 0px;
+}
+
+.contact-item-value {
+    margin-top: 0px;
+}
+
+.skill-title {
+    margin-top: 4px;
+    margin-bottom: -8px;
+}
+
+.skills-list-container {
+    margin-top: 12px;
+}
+
+.skill-list-item-next-page {
+    padding-top: 10px;
+}
+
+progress[value] {
+    /* Reset the default appearance */
+    -webkit-appearance: none;
+    appearance: none;
+
+    width: 200px;
+    height: 10px;
+}
+
+progress::-webkit-progress-bar {
+    background-color: #33648f;
+}
+progress::-webkit-progress-value {
+    background-color: #eaebff;
+}
+  
+
+  
