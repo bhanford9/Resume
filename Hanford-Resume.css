@@ -81,16 +81,21 @@ body {
 
 .work-section-item {
     margin-top: 16px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 #gateway-mission-router {
-    margin-top: 500px;
+    margin-top: 10px;
+    padding-top: 60px;
+}
+
+#mission-planning-app {
+    margin-top: 10px;
     padding-top: 60px;
 }
 
 #autonomous-satellite-tracking {
-    margin-top: 500px;
+    margin-top: 300px;
     padding-top: 60px;
 }
 
@@ -150,7 +155,6 @@ body {
 }
 
 progress[value] {
-    /* Reset the default appearance */
     -webkit-appearance: none;
     appearance: none;
 

@@ -20,10 +20,13 @@
             Design, implement and test software utilized in designing steel joists, analyzing the forces and stresses at various points along the joists and generating reports for the creation of the joists
           </li>
           <li class="work-description-list-item">
-            Develop and maintain a .NET, WPF solution consisting of two Windows services, over 115 projects and over 16,000 unit, integration and system tests
+            Develop and maintain a .NET, WPF solution consisting of two Windows services, over 125 projects and over 22,000 unit, integration and system tests
           </li>
           <li class="work-description-list-item">
-            Lead a team of 6 new team members of varying experience to ensure a smooth transition onto the project and bring them up to speed on the C#, WPF and domain information required for being successful on the project 
+            Lead a sub-team of 6 new team members of varying experience to ensure a smooth transition onto the project and bring them up to speed on the C#, WPF and domain information required for being successful on the project 
+          </li>
+          <li class="work-description-list-item">
+            Lead a sub-team of 6 team members across multiple companies to design, develop and test features for extending usability of the application and exposing endpoints to the system data via micro services
           </li>
           <li class="work-description-list-item">
             Work directly with Civil Engineers to analyze and interpret several gigabytes worth of organized data output used in the validation of calculations and software changesets
@@ -32,7 +35,7 @@
           </li>
       </ul>
     </div>
-    <div class="work-section-item">
+    <div id="signal-processing-job"  class="work-section-item">
       <div class="job-project-container">
         <div class="short-spacing">
           <p class="short-spacing occupational-title">SEP - Software Engineer</p>
@@ -84,7 +87,7 @@
         </li>
       </ul>
     </div>
-    <div class="work-section-item">
+    <div id="mission-planning-app"  class="work-section-item">
       <div class="job-project-container">
         <div class="short-spacing">
           <p class="short-spacing occupational-title">Raytheon Technologies - Software Engineer</p>
